@@ -1,0 +1,136 @@
+
+
+h3 {
+	color: white;
+	text-align: center;
+	line-height: 10em;
+
+}
+
+h2 {
+	color: #F041C7;
+	font-weight: bold;
+
+}
+
+h4 {
+	color: #6D7378;
+}
+.title {
+	color: #91A8BA;
+	font-family: 'Chewy', cursive;
+	font-size: 30px;
+
+}
+
+div {
+	display: block;
+}
+/*nav bar*/
+.navaf	{
+	color: #91A8BA;
+}
+nav a {
+	padding: 20px;
+	line-height: 45px;
+	color: #91A8BA;
+}
+
+.navaf:hover {
+	text-decoration: none;
+}
+/*Months*/
+
+.jan {
+	height: 20em;
+	background-color: #E7BCC5;
+}
+
+.jan:hover {
+	background-image: url("../img/IMG_0456.jpg");
+	background-size: cover;
+}
+
+.feb {
+	background-color: #FBD7B3;
+	height: 20em;
+}
+
+.feb:hover {
+	background-image: url("../img/IMG_0630.JPG");
+	background-size: cover;
+}
+
+.mar {
+	background-color: #FFE3AD;
+	height: 20em;
+}
+
+.mar:hover {
+	background-image: url("../img/IMG_0639.JPG");
+	background-size: cover;
+
+}
+.apr {
+	background-color: #FFC1B8;
+	height: 20em;
+}
+
+.may {
+	background-color: #FFE3AD;
+	height: 20em;
+}
+
+.jun {
+	background-color: #FFC1B8;
+	height: 20em;
+}
+
+.jul {
+	background-color: #E7BCC5;
+	height: 20em;
+}
+
+.aug {
+	background-color: #FBD7B3;
+	height: 20em;
+}
+
+.sep {
+	height: 20em;
+	background-color: #E7BCC5;
+}
+
+.sep:hover {
+	background-color: black;
+	opacity: .3;
+}
+
+.oct {
+	background-color: #FBD7B3;
+	height: 20em;
+}
+
+.oct:hover {
+	background-image: url("../img/IMG_0639.JPG");
+
+}
+
+.nov {
+	background-color: #FFE3AD;
+	height: 20em;
+}
+
+.dec {
+	background-color: #FFC1B8;
+	height: 20em;
+}
+/* pages css*/
+.janp {
+	background-color: aliceblue;
+	color: #92C7F0;
+	padding: none;
+	height: none;
+}
+
+
