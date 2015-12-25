@@ -5,7 +5,11 @@ $(document).ready(function() {
     $(".feb").html('<div class="febshow">adfa</div>')
   })
   $(".mar").click(function() {
+    $(".mar").html("");
+    $(".mar").toggle(".marshow");
 
-    $(".marshow").toggle("slow");
   });
+  $(".apr").click(function(){
+    $(".apr").toggleClass("clicked")
+  })
 });

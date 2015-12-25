@@ -66,6 +66,14 @@ nav a {
 	background-size: cover;
 }
 
+.clicked {
+background-image: linear-gradient(
+	rgba(255, 0, 0, 0.5),
+	rgba(255,0,0,0.5)
+	),
+	url("../img/IMG_0639.JPG");
+}
+
 .mar {
 	background-color: #FFE3AD;
 	height: 20em;
@@ -82,7 +90,7 @@ nav a {
 }
 
 .apr:hover {
-	background-image: url("../img/IMG_0630.JPG");
+	background-image: url("../img/April.JPG");
 	background-size: cover;
 }
 
