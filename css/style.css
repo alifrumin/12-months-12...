@@ -14,7 +14,8 @@ h2 {
 }
 
 h4 {
-	color: #6D7378;
+	color: #91A8BA;
+	font-size: 2em;
 	margin-top: 0px;
 	padding-top: 10px;
 }
@@ -50,7 +51,7 @@ nav a {
 
 .jan {
 	height: 20em;
-	background-color: #E7BCC5;
+	background-color: rgba(231, 188, 197, 1);
 }
 
 .jan:hover {
@@ -59,7 +60,7 @@ nav a {
 }
 
 .feb {
-	background-color: #FBD7B3;
+	background-color: rgba(251, 215, 179, 1);
 	height: 20em;
 	padding: 0px;
 }
@@ -70,8 +71,8 @@ nav a {
 }
 .febshow {
 	background-image: linear-gradient(
-		rgba(255, 0, 0, 0.5),
-		rgba(255,0,0,0.5)
+		rgba(251, 215, 179, 0.5),
+		rgba(251, 215, 179, 0.5)
 		), url("../img/IMG_0630.JPG");
 	background-size: cover;
 	height: inherit;
@@ -86,7 +87,7 @@ background-image: linear-gradient(
 }
 
 .mar {
-	background-color: #FFE3AD;
+	background-color: rgba(255, 227, 173, 1);
 	height: 20em;
 }
 
@@ -96,7 +97,7 @@ background-image: linear-gradient(
 
 }
 .apr {
-	background-color: #FFC1B8;
+	background-color: rgba(255, 193, 184, 1);
 	height: 20em;
 }
 
@@ -195,4 +196,10 @@ background-image: linear-gradient(
 	margin: 0px;
 	padding: 0px;
 	width: 100%;
+}
+
+p {
+	font-weight: bold;
+	color: white;
+	font-size: 1.5em;
 }
