@@ -78,13 +78,7 @@ nav a {
 	height: inherit;
 	padding: 50px;
 }
-.clicked {
-background-image: linear-gradient(
-	rgba(255, 0, 0, 0.5),
-	rgba(255,0,0,0.5)
-	),
-	url("../img/IMG_0639.JPG");
-}
+
 
 .mar {
 	background-color: rgba(255, 227, 173, 1);
@@ -104,6 +98,21 @@ background-image: linear-gradient(
 .apr:hover {
 	background-image: url("../img/April.JPG");
 	background-size: cover;
+}
+
+.clicked {
+		background-size: cover;
+		height: 20em;
+background-image: linear-gradient(
+	rgba(255, 193, 184, 0.5),
+	rgba(255,0,0,0.5)
+	),
+	url("../img/April.JPG");
+
+}
+
+.clicked:hover {
+
 }
 
 .may {
