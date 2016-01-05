@@ -1,0 +1,214 @@
+
+
+h3 {
+	color: white;
+	text-align: center;
+	line-height: 10em;
+
+}
+
+h2 {
+	color: #F041C7;
+	font-weight: bold;
+
+}
+
+h4 {
+	color: #91A8BA;
+	font-size: 2em;
+	margin-top: 0px;
+	padding-top: 10px;
+}
+.title {
+	color: #91A8BA;
+	font-family: 'Chewy', cursive;
+	font-size: 30px;
+}
+.title:hover {
+	color: #E7BCC5;
+	text-decoration: none;
+}
+.navbar {
+	margin: 0px;
+}
+div {
+	display: block;
+}
+/*nav bar*/
+.navaf	{
+	color: #91A8BA;
+}
+nav a {
+	padding: 20px;
+	line-height: 45px;
+	color: #91A8BA;
+}
+
+.navaf:hover {
+	text-decoration: none;
+}
+/*Months*/
+
+.jan {
+	height: 20em;
+	background-color: rgba(231, 188, 197, 1);
+}
+
+.jan:hover {
+	background-image: url("../img/IMG_0456.jpg");
+	background-size: cover;
+}
+
+.feb {
+	background-color: rgba(251, 215, 179, 1);
+	height: 20em;
+	padding: 0px;
+}
+
+.feb:hover {
+	background-image: url("../img/IMG_0630.JPG");
+	background-size: cover;
+}
+.febshow {
+	background-image: linear-gradient(
+		rgba(251, 215, 179, 0.5),
+		rgba(251, 215, 179, 0.5)
+		), url("../img/IMG_0630.JPG");
+	background-size: cover;
+	height: inherit;
+	padding: 50px;
+}
+
+
+.mar {
+	background-color: rgba(255, 227, 173, 1);
+	height: 20em;
+}
+
+.mar:hover {
+	background-image: url("../img/IMG_0639.JPG");
+	background-size: cover;
+
+}
+.apr {
+	background-color: rgba(255, 193, 184, 1);
+	height: 20em;
+}
+
+.apr:hover {
+	background-image: url("../img/April.JPG");
+	background-size: cover;
+}
+
+.clicked {
+		background-size: cover;
+		height: 20em;
+background-image: linear-gradient(
+	rgba(255, 193, 184, 0.5),
+	rgba(255,0,0,0.5)
+	),
+	url("../img/April.JPG");
+
+}
+
+.clicked:hover {
+
+}
+
+.may {
+	background-color: #FFE3AD;
+	height: 20em;
+}
+
+.may:hover {
+	background-image: url("../img/IMG_0630.JPG");
+	background-size: cover;
+}
+
+.jun {
+	background-color: #FFC1B8;
+	height: 20em;
+}
+
+.jun:hover {
+	background-image: url("../img/IMG_0630.JPG");
+	background-size: cover;
+}
+
+.jul {
+	background-color: #E7BCC5;
+	height: 20em;
+}
+
+.jul:hover {
+	background-image: url("../img/July.JPG");
+	background-size: cover;
+}
+
+.aug {
+	background-color: #FBD7B3;
+	height: 20em;
+}
+
+.aug:hover {
+	background-image: url("../img/August.JPG");
+	background-size: cover;
+}
+
+.sep {
+	height: 20em;
+	background-color: #E7BCC5;
+}
+
+.sep:hover {
+	background-image: url("../img/September.JPG");
+	background-size: cover;
+}
+
+.oct {
+	background-color: #FBD7B3;
+	height: 20em;
+}
+
+.oct:hover {
+	background-image: url("../img/october.JPG");
+	background-size: cover;
+
+}
+
+.nov {
+	background-color: #FFE3AD;
+	height: 20em;
+}
+
+.nov:hover {
+	background-image: url("../img/Nov.JPG");
+	background-size: contain;
+}
+.dec {
+	background-color: #FFC1B8;
+	height: 20em;
+}
+.dec:hover {
+	background-image: url("../img/december.JPG");
+	background-size: cover;
+}
+/* pages css*/
+.janp {
+	background-color: aliceblue;
+	color: #92C7F0;
+	padding: none;
+	height: none;
+}
+
+.container {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+}
+
+p {
+	font-weight: bold;
+	color: white;
+	font-size: 1.5em;
+}
