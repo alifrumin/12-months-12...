@@ -11,4 +11,6 @@ alert("March: Pancake Tuesday with Jophie")
     $(".apr").toggleClass("clicked")
     $(".apr").removeClass("apr")
   })
+
+  $('[data-toggle="tooltip"]').tooltip()
 });
